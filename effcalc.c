@@ -23,6 +23,8 @@ double mp;
 double effans;
 char secanswer;
 char thirdanswer;
+char gomode;
+
 
 
 
