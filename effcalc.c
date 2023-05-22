@@ -112,5 +112,12 @@ int main() {
    printf("Your players efficiency per 48 minutes is %d.\n", playerefficiencyperfortyeightmins);
 
    printf("Everyone deserves to play the game of basketball no matter what their efficiency!\n Keep Playing!");
-   return 0;
+   
+
+   for(int i = 0; i < 10; i++)
+   {
+    printf(i);
+    
+   }
 }
+
